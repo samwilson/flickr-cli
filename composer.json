@@ -17,7 +17,7 @@
 		"rezzza/flickr": "~1.1",
 		"symfony/yaml": "~2.3",
 		"symfony/console": "~3.1",
-		"symfony/filesystem": "~3.1",
+		"symfony/filesystem": "~4.3",
 		"symfony/finder": "~3.1",
 		"monolog/monolog": "~1.21",
 		"guzzlehttp/guzzle": "~3.8",
